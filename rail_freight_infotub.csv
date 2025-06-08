@@ -1,0 +1,11 @@
+Title,Content,Category
+Brake Regime Requirement,"Wagons must be loaded in brake regime P or R. Brake percentage must meet a minimum threshold of 110% for long trains.",Safety Rule
+Exceptional Transport Rule,"Exceptional Transport must be approved if the wagon exceeds the maximum allowed loading gauge or axle load.",Operational Rule
+Capacity Request Deadline,"All capacity requests for freight paths must be submitted via PCS or DONNA at least 30 days before the operational day.",Timetabling Procedure
+Track Geometry Compliance,"Wagons must comply with the 1,435 mm standard gauge and local curvature restrictions along the assigned path.",Technical Specification
+Dangerous Goods Transport,"Transporting hazardous materials requires that the UN number and hazard class are submitted in advance.",Safety Rule
+Platform Safety Constraint,"Trains stopping at short platforms must not exceed platform length unless approved by station control.",Infrastructure Restriction
+Axle Load Regulation,"Maximum axle load must conform to RINF-specified thresholds unless exceptional permission is granted.",Technical Specification
+Night Train Operation,"Night freight services must minimize noise near urban zones and comply with night time access constraints.",Environmental Regulation
+Brake Testing Procedure,"Brake tests must be conducted before departure at designated points using certified equipment.",Safety Procedure
+Data Reporting Obligation,"Operators must report train composition and load data to ProRail systems before dispatch.",Compliance Requirement
